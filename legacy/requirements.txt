@@ -1,0 +1,8 @@
+python==3.11.13
+numpy==1.26.4
+dotenv
+pillow
+onnxruntime==1.20.1
+torchvision
+langchain_core
+langchain_mistralai
