@@ -66,7 +66,6 @@ The application will open automatically in your default browser.
 ### 📞 Contact
 - Albert ROMANO - [https://github.com/Ter0rra]
    - 🔗 [LinkedIn](www.linkedin.com/in/albert-romano-ter0rra)
-   - 📧 [Email](mailto:terorra.ia.data@gmail.com)
    - 🐙 [GitHub](https://github.com/Ter0rra)
    
 - Asma RHALMI - [https://github.com/Cauliflaa]
